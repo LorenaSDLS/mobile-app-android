@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZAZIL_APP</string>
+    
+    <string name="Item_Inicio">Inicio</string>
+    <string name="Item_Tienda">Tienda</string>
+    <string name="Item_Favoritos">Favoritos</string>
+    <string name="Item_Calendario">Calendario</string>
+    <string name="Item_Noticias">Noticias</string>
+    <string name="Item_MiCarrito">Mi Carrito</string>
+    <string name="Item_Conocenos">Conócenos</string>
+    <string name="Item_Perfil">Perfil</string>
+    <string name="Item_Cerrar_Sesion">Cerrar Sesión</string>
+
+</resources>
